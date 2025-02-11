@@ -1,5 +1,12 @@
 # terraform-aws-bhumi-test-VPC
 
+This is complete config to work with this module.
+
+USAGE
+
+
+
+
 provider "aws" {
   region = "eu-north-1"
 }
